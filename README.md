@@ -146,6 +146,8 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 
 ## Output screen shots :
+![image](https://user-images.githubusercontent.com/93992063/199510876-e8492c71-ce5d-4b24-8a63-badc0b1147a7.png)
+
 
 ## Result :
 Interfacing a keypad 4x4 is interfaced  with LPC2148
